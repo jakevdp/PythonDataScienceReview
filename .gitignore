@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# emacs
+*~
+\#*\#
+
+# LaTeX
+*.aux
+*.brf
+*.log
+*.out
+*.bbl
+*.blg
